@@ -1,6 +1,6 @@
 ## Basic Python
 This Repository contains comprehensive materials and exercises for mastering Python programming in the context of data science.  <br />
-Topics covered :
+Topics covered : <br />
 1.Basic Python <br />
 2.Flow controller statement <br />
 3.String related operation <br />

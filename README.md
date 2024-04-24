@@ -1,4 +1,4 @@
-Basic Python
+## Basic Python
 This Repository contains comprehensive materials and exercises for mastering Python programming in the context of data science. 
 Topics covered :
 1.Basic Python

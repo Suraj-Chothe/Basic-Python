@@ -17,6 +17,7 @@ capitals = {
     'UP': 'Lakhnow',
     'Karnataka': 'Banglore',
     'Andhrapradesh': 'Hydrabad'}
+
 # o.p:- {'Maharashtra': 'Mumbai', 'Gujrat': 'Ahmadbad', 'UP': 'Lakhnow', 'Karnataka': 'Banglore', 'Andhrapradesh': 'Hydrabad'}
 print(capitals)
 

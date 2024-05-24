@@ -15,10 +15,12 @@ Syntax:- ( )
 Syntax :- [ ]
 '''
 #####################################
+
 #**Sets**
 '''Sets are a collection that is unordered and unindexed. They are mutable (changeable) but do not allow duplicate values to be held.
 Syntax :- {}
 '''
+
 ####################################
 #**Dictionary**
 '''A dictionary is an unordered collection that is indexed by a key which references a value. The value is returned when the key is provided.
